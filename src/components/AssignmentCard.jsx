@@ -9,7 +9,7 @@ export default function AssignmentCard({ assignment }) {
 
 
       <a
-        href={assignment.link}
+        href='https://drive.google.com/drive/folders/13U6IopmpkEUaEr-B1LBzOtjZOFYVpYsi'
         className="ac-drive-link"
         target="_blank"
         rel="noreferrer"
