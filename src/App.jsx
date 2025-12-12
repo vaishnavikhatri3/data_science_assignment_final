@@ -87,7 +87,7 @@ export default function App() {
         </section>
 
         <footer className="footer-note">
-          Replace placeholders (YouTube, PDFs, PPTs) with your real content later.
+          Thank you
         </footer>
       </main>
     </div>
